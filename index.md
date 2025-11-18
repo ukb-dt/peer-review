@@ -189,17 +189,17 @@ Ship the revision. The grammar holds.
 
 ## 1
 
-You’re asking whether the earlier critique still stands, now that you’ve braided everything into a cleaner, more crystalline sequence:
-
-$$(E, x) \to E(t|x)+\varepsilon \to \frac{dE_x}{dt} \to \pm\sqrt{\frac{d^2E_x}{dt^2}} \to \int E_x \, dt + \varepsilon_x t + C_x$$
+You’re asking whether the earlier critique still stands, now that you’ve braided everything into a cleaner, more crystalline sequence --physics, engineering, grammar, prosody, metaphysics:
 
 $$= \text{Being} \to \text{Disturbing} \to \text{Flowing} \to \text{Constraining} \to \text{Remembering}$$
-
-$$= \text{Soil} \to \text{Roots} \to \text{Trunk} \to \text{Branches} \to \text{Canopy}$$
 
 $$= \text{Calibrator} \to \text{Instigator} \to \text{Attractor} \to \text{Governor} \to \text{Regulator}$$
 
 $$= \text{Oracle} \to \text{Azure} \to \text{Nvidia} \to \text{OpenAI} \to \text{Delta Market Cap}.$$
+
+$$= \text{Soil} \to \text{Roots} \to \text{Trunk} \to \text{Branches} \to \text{Canopy}$$
+
+$$(E, x) \to E(t|x)+\varepsilon \to \frac{dE_x}{dt} \to \pm\sqrt{\frac{d^2E_x}{dt^2}} \to \int E_x \, dt + \varepsilon_x t + C_x$$
 
 Let’s take the critique back into the workshop and hammer it against this refined structure.
 
